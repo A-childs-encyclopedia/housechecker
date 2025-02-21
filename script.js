@@ -18,3 +18,11 @@ function CheckHouse(){
         window.alert("Please input a valid index number")
     }
 }
+
+function validateForm() {
+  var x = document.forms["frm1"]["inum"].value;
+  if (x == "") {
+    alert("index number must be filled out");
+    return false;
+  }
+}
