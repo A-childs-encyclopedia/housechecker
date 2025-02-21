@@ -3,7 +3,7 @@
   "start_url": "/",
   "icons": [
     {
-      "src": "logo.webp",
+      "src": "/windows11/logon.png",
       "sizes": "48x48",
       "type": "image/webp"
     }
