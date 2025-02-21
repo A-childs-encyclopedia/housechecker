@@ -1,7 +1,9 @@
 function CheckHouse(){
     let indexn = document.getElementById("inum");
     let indexnum = indexn.value;
-    console.log(indexnum)
+    console.log("indexnum is", indexnum);
+    console.log("indexn is", indexn);
+    
     if (indexnum % 4 == 1) {
         window.alert("Cordowa")
     } else if (indexnum % 4 == 0) {
