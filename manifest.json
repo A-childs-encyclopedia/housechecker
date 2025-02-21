@@ -1,13 +1,17 @@
 {
-    "name": "House checker",
-    "start_url": "/",
-    "icons": [
-      {
-        "src": "logo.webp",
-        "sizes": "48x48",
-        "type": "image/webp"
-      }
-    ],
-    "display": "standalone"
-  }
-  
+  "name": "House checker",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "logo.webp",
+      "sizes": "48x48",
+      "type": "image/webp"
+    }
+  ],
+  "display": "standalone",
+  "theme_color": "#ffffff",
+  "background_color": "#ffffff",
+  "short_name": "hs_chk",
+  "id": "hschkvfr",
+  "description": "A simple app to check the house based on index number."
+}
