@@ -17,5 +17,9 @@ function CheckHouse(){
         window.alert("Please input a valid index number")
         errors += 1
         console.log(errors)
+    } else {
+        window.alert("Please input a valid index number")
+        errors += 1
+        console.log(errors)
     }
 }
