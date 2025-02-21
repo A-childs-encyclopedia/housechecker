@@ -13,5 +13,10 @@
   "background_color": "#ffffff",
   "short_name": "hs_chk",
   "id": "hschkvfr",
-  "description": "A simple app to check the house based on index number."
+  "description": "A simple app to check the house based on index number.",
+  "dir": "auto",
+  "categories": [
+    "sports",
+    "utilities"
+  ]
 }
