@@ -1,28 +1,14 @@
-function CheckHouse(){
+function checkHouse(){
     let indexn = document.getElementById("inum");
     let indexnum = indexn.value;
-    console.log("indexnum is", indexnum);
-    console.log("indexn is", indexn);
-    
+    console.log(indexnum)
     if (indexnum % 4 == 1) {
         window.alert("Cordowa")
     } else if (indexnum % 4 == 0) {
         window.alert("Nizamiya")
     } else if (indexnum % 4 == 2) {
         window.alert("Al-Zahra")
-    } else if (indexnum % 4 == 3) {
-        window.alert("Al-Azhar")
-    } else if (indexnum == "") {
-        window.alert("Please input a valid index number")
     } else {
-        window.alert("Please input a valid index number")
+        window.alert("Al-Azhar")
     }
-}
-
-function validateForm() {
-  var x = document.forms["frm1"]["inum"].value;
-  if (x == "") {
-    alert("index number must be filled out");
-    return false;
-  }
 }
