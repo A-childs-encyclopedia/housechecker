@@ -1,0 +1,13 @@
+{
+    "name": "House checker",
+    "start_url": "/",
+    "icons": [
+      {
+        "src": "logo.webp",
+        "sizes": "48x48",
+        "type": "image/webp"
+      }
+    ],
+    "display": "standalone"
+  }
+  
