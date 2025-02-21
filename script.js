@@ -8,7 +8,11 @@ function CheckHouse(){
         window.alert("Nizamiya")
     } else if (indexnum % 4 == 2) {
         window.alert("Al-Zahra")
-    } else {
+    } else if (indexnum % 4 == 3) {
         window.alert("Al-Azhar")
+    } else if (indexnum == null) {
+        window.alert("Please input a valid number)
+    } else {
+        console.log("error")
     }
 }
