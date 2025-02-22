@@ -3,9 +3,9 @@
   "start_url": "/",
   "icons": [
     {
-      "src": "/windows11/largelogo.png",
+      "src": "/largelogo.png",
       "sizes": "1240x1240",
-      "type": "image/webp"
+      "type": "image/png"
     }
   ],
   "display": "standalone",
