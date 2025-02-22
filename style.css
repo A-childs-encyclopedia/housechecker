@@ -66,4 +66,9 @@ img {
     display: block;
     margin: 0 auto;
 }
+
+p {
+    position: fixed;
+    bottom: 0;
+}
   
