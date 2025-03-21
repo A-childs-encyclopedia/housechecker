@@ -3,16 +3,16 @@
   "start_url": "/",
   "icons": [
     {
-      "src": "/logo.png",
-      "sizes": "512x512",
+      "src": "/icondark.png",
+      "sizes": "544x544",
       "type": "image/png"
     }
   ],
   "display": "standalone",
-  "theme_color": "#ffffff",
-  "background_color": "#ffffff",
+  "theme_color": "#000000",
+  "background_color": "#000000",
   "short_name": "House Checker",
-  "id": "hschkvfr",
+  "id": "hschk",
   "description": "A simple app to check the house of a student based on their index number.",
   "dir": "auto",
   "categories": [
