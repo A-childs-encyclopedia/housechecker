@@ -3,17 +3,17 @@
   "start_url": "/",
   "icons": [
     {
-      "src": "/darklogo.png",
-      "sizes": "1240x1240",
+      "src": "/transplogo.png",
+      "sizes": "450x450",
       "type": "image/png"
     }
   ],
   "display": "standalone",
-  "theme_color": "#000000",
-  "background_color": "#000000",
+  "theme_color": "#ffffff",
+  "background_color": "#ffffff",
   "short_name": "House Checker",
   "id": "hschkvfr",
-  "description": "A simple app to check the house based on index number.",
+  "description": "A simple app to check the house of a student based on their index number.",
   "dir": "auto",
   "categories": [
     "sports",
