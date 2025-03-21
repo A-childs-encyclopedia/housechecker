@@ -17,7 +17,17 @@ function checkHouse(){
 
 function darkTheme() {
     var element = document.body;
+    var logo = document.getElementById("logo");
     element.classList.toggle("dark-mode");
+    logo.classList.toggle("darklogo");
+    document.getElementById("themebutton").classList.toggle("log");
+    if (logo.classList.contains("darklogo")) {
+        document.getElementById("logo").src = "darklogo.png";
+        document.getElementById("themebutton").innerText = "☀️";
+    } else {
+        document.getElementById("logo").src = "transplogo.png";
+        document.getElementById("themebutton").innerText = "🌙";
+    }
 } 
 
   
