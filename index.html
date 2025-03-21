@@ -13,7 +13,10 @@
 
 </head>
 <body>
-    <img src="transplogo.png" alt="school logo" width=450px height=450px class="center">
+    <picture>
+        <img src="transplogo.png" alt="school logo" width=450px height=450px class="center">
+        <source srcset="darklogo.png" media="(prefers-color-scheme: dark)">
+    </picture>
     <h1>Check your house!</h1>
     <form id="frm1" onsubmit="return checkHouse()">
         <label for="inum" id="textform">Index number:</label><br>
