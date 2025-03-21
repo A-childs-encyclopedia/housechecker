@@ -3,7 +3,7 @@
   "start_url": "/",
   "icons": [
     {
-      "src": "/largelogo.png",
+      "src": "/darklogo.png",
       "sizes": "1240x1240",
       "type": "image/png"
     }
