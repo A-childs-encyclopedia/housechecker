@@ -76,3 +76,23 @@ p {
     background-color: black;
     color: white;
 }
+
+.themeswitch {
+    position: fixed;
+    top: 0;
+    right: 0;
+    display: block;
+    padding: 0.75rem;
+    font-size: 1rem;
+    border: none;
+    border-radius: 32px;
+    background-color: #300029; 
+    color: #ffffff;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    }
+  
+    hover {
+    background-color: #ffffff;
+
+}

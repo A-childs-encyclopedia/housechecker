@@ -15,9 +15,17 @@ function checkHouse(){
     }
 }
 
+function darkTheme() {
+    var element = document.body;
+    element.classList.toggle("dark-mode");
+    document.getElementById("logo").src.toggle = "darklogo.png"
+} 
 
-
-
+function lightTheme() {
+    var element = document.body;
+    element.classList.toggle("dark-mode");
+    document.getElementById("logo").src = "darklogo.png"
+} 
   
   
   
