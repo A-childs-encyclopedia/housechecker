@@ -1,4 +1,4 @@
-#House Checker
+# House Checker
 
 This is the repository for the source code of House Checker. It has been open sourced under the GPL v3.
 
