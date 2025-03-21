@@ -18,5 +18,21 @@
   "categories": [
     "sports",
     "utilities"
+  ],
+  "screenshots": [
+    {
+      "src": "sdeskscreen.png",
+      "sizes": "1366x720",
+      "type": "image/png",
+      "form_factor": "wide",
+      "label": "Home screen showing main content"
+    },
+    {
+      "src": "mobscreen.jpg",
+      "sizes": "1080x2268",
+      "type": "image/jpg",
+      "form_factor": "tall",
+      "label": "Home screen showing main content"
+    }
   ]
 }
