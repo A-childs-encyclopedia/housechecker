@@ -12,15 +12,15 @@
 
 
 </head>
-<body>
-    <img src="transplogo.png" alt="school logo" width=450px height=450px class="center" id="logo">
+<body class="dark-mode">
+    <img src="darklogo.png" alt="school logo" width=450px height=450px class="center darklogo" id="logo">
     <h1>Check your house!</h1>
     <form id="frm1" onsubmit="return checkHouse()">
         <label for="inum" id="textform">Index number:</label><br>
         <input id="inum" name="inum" required><br>
         <input type="submit" class="button" value="Submit">
     </form>
-    <button onclick="darkTheme()" class="themeswitch" id="themebutton">🌙</button>
+    <button onclick="darkTheme()" class="themeswitch log" id="themebutton">☀️</button>
     <p>created by M.I.Abdullah of 11E1 (95th batch) <a href="https://github.com/A-childs-encyclopedia"> GitHub</a></p>
     <script>
         if (typeof navigator.serviceWorker !== 'undefined') {
