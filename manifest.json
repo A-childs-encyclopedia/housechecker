@@ -31,7 +31,7 @@
       "src": "mobscreen.jpg",
       "sizes": "1080x2268",
       "type": "image/jpg",
-      "form_factor": "tall",
+      "form_factor": "narrow",
       "label": "Home screen showing main content"
     }
   ]
