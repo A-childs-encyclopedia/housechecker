@@ -8,4 +8,4 @@ This app can be installed similar to a native app from any modern chromium based
 
 Instructions to install the website can be found in the [wiki](https://github.com/A-childs-encyclopedia/housechecker/wiki)
 
-DISCLAIMER: Only the code provided is free to use, all images of the school logo belong to Zahira College Mawanella
+DISCLAIMER: Only the code provided is free to use, all images of the school logo belong to Zahira College Mawanella.
